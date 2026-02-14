@@ -1,0 +1,44 @@
+# Core LangChain (Latest stable versions - January 2025)
+langchain==0.3.13
+langchain-core==0.3.28
+langchain-community==0.3.13
+langchain-text-splitters==0.3.4
+
+# LangChain Integrations
+langchain-openai==0.2.14
+langchain-pinecone==0.2.0
+
+# OpenAI
+openai==1.59.5
+
+# Pinecone (Latest)
+pinecone==5.4.2
+pinecone-client==5.4.2
+
+# PDF Processing
+pdfminer.six==20231228
+pdfplumber==0.11.4
+PyPDF2==3.0.1
+pdf2image==1.17.0
+Pillow==11.0.0
+
+
+ camelot-py[cv]==0.11.0
+ tabula-py==2.9.3
+
+# Data Processing
+pandas==2.2.3
+numpy==2.2.1
+
+# Frontend
+streamlit==1.41.1
+
+# Utilities
+python-dotenv==1.0.1
+typing-extensions==4.12.2
+pydantic==2.10.4
+tiktoken==0.8.0
+
+# Optional: OCR (uncomment if needed)
+# pytesseract==0.3.13
+# easyocr==1.7.2
