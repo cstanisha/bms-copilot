@@ -24,8 +24,7 @@ from backend.processors.chunkers import SmartDocumentChunker
 # PAGE CONFIG
 # ============================================================================
 st.set_page_config(
-    page_title="Fire Protection AI",
-    page_icon="🔥",
+    page_title="Bms-Copilot",
     layout="wide",
     initial_sidebar_state="expanded"
 )
@@ -526,7 +525,7 @@ def main():
                 )
                 
                 if uploaded_file:
-                    if st.button("📤 Process & Index", use_container_width=True):
+                    if st.button(" Process & Index", use_container_width=True):
                         with st.spinner("Processing PDF..."):
                             try:
                                 # Extract text
