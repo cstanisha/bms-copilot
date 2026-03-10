@@ -1,4 +1,4 @@
-# BMS Copilot: AI-Powered Fire Protection Assistant
+# BMS Copilot
 
 ## Overview
 
